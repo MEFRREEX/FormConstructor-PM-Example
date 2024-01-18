@@ -1,0 +1,12 @@
+name: FormConstructor-Example
+version: 1.0.0
+api: 5.0.0
+author: MEFRREEX
+main: com\formconstructor\example\FormConstructorExample
+
+depend:
+  - FormConstructor
+
+permissions:
+  formconstructor.example:
+    default: true
